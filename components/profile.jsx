@@ -1,3 +1,4 @@
+import Image from "next/image";
 import {
   AiFillTwitterCircle,
   AiFillLinkedin,
@@ -36,7 +37,7 @@ function Profile() {
         </a>
       </div>
       <div className="mx-auto bg-gradient-to-b  from-blue-200 rounded-full w-60 h-60 relative overflow-hidden mt-10 md:h-80 md:w-80">
-        <img src="/profile.png" layout="fill" objectFit="cover" />
+        <Image src="/profile.png" layout="fill" objectFit="cover" />
       </div>
     </div>
   );
