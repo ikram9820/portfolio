@@ -3,7 +3,7 @@ const nextConfig = {
   reactStrictMode: true,
   images: {
     loader: "akamai",
-    path: "https://ikram9820.github.io/portfolio/",
+    path: "images",
   },
   assetPrefix: "/portfolio/",
   basePath: "/portfolio",
