@@ -14,7 +14,7 @@ const services = [
   },
   {
     id: 1,
-    imgsrc: "./images/code.png",
+    imgsrc: "./images/coding.png",
     title: "Code your dream project",
     details:
       " Do you have an idea for your next great website? Let's make it a reality.",
