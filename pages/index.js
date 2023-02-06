@@ -23,7 +23,7 @@ export default function Home() {
           name="description"
           content="hey, this is Ikram. I am a software engineer. I can develop you a great quality of web app"
         />
-        <link rel="icon" href="./images/profile.png" />
+        <link rel="icon" href="./images/programmer.png" />
       </Head>
       <main className=" bg-white px-10 dark:bg-gray-900 md:px-20 lg:px-40">
         <section className="min-h-screen">
