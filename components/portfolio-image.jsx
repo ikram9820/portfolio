@@ -1,9 +1,8 @@
-import Image from "next/image";
 
 function PortfolioImage({img}) {
   return (
     <div className="basis-1/3 flex-1">
-      <Image
+      <img
         className="rounded-lg object-cover h-full w-full"
         src={img.src}
         width={img.height}
