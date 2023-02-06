@@ -35,8 +35,8 @@ function Profile() {
           <AiFillGithub className="text-gray-800 dark:text-gray-200" />
         </a>
       </div>
-      <div className="mx-auto bg-gradient-to-b  from-blue-200 rounded-full w-60 h-60 relative overflow-hidden mt-10 md:h-80 md:w-80">
-        <img src="./images/profile.png" layout="fill" objectFit="cover" />
+      <div className="mx-auto bg-gradient-to-b object-cover from-blue-200 rounded-full w-60 h-60 relative overflow-hidden mt-10 md:h-80 md:w-80">
+        <img src="./images/programmer.webp" layout="fill"  />
       </div>
     </div>
   );

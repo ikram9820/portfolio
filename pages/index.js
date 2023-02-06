@@ -35,7 +35,7 @@ export default function Home() {
           <ServiceText />
           <div className="lg:flex gap-10">
             {services.map((service) => (
-              <ServiceCard service={service} />
+              <ServiceCard key={service.id} service={service} />
             ))}
           </div>
         </section>
