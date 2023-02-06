@@ -14,7 +14,7 @@ function Navbar({ onChangeMode }) {
         <li>
           <a
             className="bg-gradient-to-r from-blue-500 text- to-sky-500 text-white px-4 py-2 border-none rounded-md ml-8"
-            href="/Ikram-Khan.pdf"
+            href="./pdf/Ikram-Khan.pdf"
             target="_blank"
           >
             Resume

@@ -1,7 +1,7 @@
 const services = [
   {
     id: 3,
-    imgsrc: "/images/design.png",
+    imgsrc: "./images/design.png",
     title: "Beautiful Designs",
     details:
       "Creating elegant designs suited for your needs following core design theory.",
@@ -14,7 +14,7 @@ const services = [
   },
   {
     id: 1,
-    imgsrc: "/images/code.png",
+    imgsrc: "./images/code.png",
     title: "Code your dream project",
     details:
       " Do you have an idea for your next great website? Let's make it a reality.",
@@ -27,7 +27,7 @@ const services = [
   },
   {
     id: 2,
-    imgsrc: "/images/consulting.png",
+    imgsrc: "./images/consulting.png",
     title: "Consulting",
     details:
       " Are you interested in feedback for your current project? I can give you tips and tricks to level it up.",
